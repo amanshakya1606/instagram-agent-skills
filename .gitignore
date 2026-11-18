@@ -1,0 +1,15 @@
+# never commit private data
+data/
+leads*.csv
+activity-log*.csv
+*.env
+.env*
+# media / build output
+*.mp4
+*.wav
+*.mp3
+*.png
+*.jpg
+node_modules/
+__pycache__/
+.venv/
